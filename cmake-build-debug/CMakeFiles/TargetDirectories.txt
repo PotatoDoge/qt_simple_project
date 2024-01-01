@@ -1,0 +1,5 @@
+/Users/bastianprado/github/qt-simple-project/cmake-build-debug/CMakeFiles/qt_simple_project.dir
+/Users/bastianprado/github/qt-simple-project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bastianprado/github/qt-simple-project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/bastianprado/github/qt-simple-project/cmake-build-debug/CMakeFiles/qt_simple_project_autogen_timestamp_deps.dir
+/Users/bastianprado/github/qt-simple-project/cmake-build-debug/CMakeFiles/qt_simple_project_autogen.dir

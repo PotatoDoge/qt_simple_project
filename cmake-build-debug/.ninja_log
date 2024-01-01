@@ -1,0 +1,8 @@
+# ninja log v5
+1	40	1704146803266905991	qt_simple_project_autogen/timestamp	a7768f0aaae0a27e
+1	40	1704146803266905991	qt_simple_project_autogen/mocs_compilation.cpp	a7768f0aaae0a27e
+1	40	1704146803266905991	/Users/bastianprado/github/qt-simple-project/cmake-build-debug/qt_simple_project_autogen/timestamp	a7768f0aaae0a27e
+1	40	1704146803266905991	/Users/bastianprado/github/qt-simple-project/cmake-build-debug/qt_simple_project_autogen/mocs_compilation.cpp	a7768f0aaae0a27e
+41	61	1704146803294031859	CMakeFiles/qt_simple_project.dir/qt_simple_project_autogen/mocs_compilation.cpp.o	72754a4018bd1b45
+41	447	1704146803678628494	CMakeFiles/qt_simple_project.dir/main.cpp.o	f800a1b931cfe869
+448	478	1704146803711186209	qt_simple_project	ad486e82f8b3fcbc
